@@ -8,7 +8,7 @@ class DashboardMain extends HTMLElement {
 <link rel="stylesheet" href="styles.css">
 <div class="main-content">
 <div class="left-content">
-<img src="./man.PNG" alt="Image" />
+<img src="./man.png" alt="Image" />
 </div>
 <div class="right-content">
 <h1>Track your <br> productivity <br>
